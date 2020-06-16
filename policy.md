@@ -1,4 +1,4 @@
-PRIVACY POLICY {style="text-align: center"}
+PRIVACY POLICY
 ==============
 
 UAB AUNELSA
@@ -19,7 +19,7 @@ and was last modified on October 2, 2017.
 
  
 
-There are two types of information we may collect through your use of the Websites/Apps: {#h.o3a98atsh234 .c7}
+There are two types of information we may collect through your use of the Websites/Apps:
 ----------------------------------------------------------------------------------------
 
 1.  “Personal Information,” which is the type of information that
@@ -47,7 +47,7 @@ There are two types of information we may collect through your use of the Websit
 
  
 
-Personal Information and Non-Personal Information That We Collect and How We Collect It {#h.4pqf52rz1smp .c7}
+Personal Information and Non-Personal Information That We Collect and How We Collect It
 ---------------------------------------------------------------------------------------
 
 -   If you choose to open an account with us, register for a contest,
@@ -101,7 +101,7 @@ Personal Information and Non-Personal Information That We Collect and How We Col
 
  
 
-Cookies {#h.4mstxv7x39iq .c7}
+Cookies
 -------
 
 In connection with the foregoing collection of Personal Information and
@@ -128,7 +128,7 @@ following the steps described therein.
 
  
 
-Use of the Personal Information That We Collect {#h.whr70i1xddin .c7}
+Use of the Personal Information That We Collect
 -----------------------------------------------
 
 We will use your Personal Information to:
@@ -150,7 +150,7 @@ We will use your Personal Information to:
 
  
 
-Use of the Non-Personal Information That We Collect {#h.ca8f4sexj8rc .c7}
+Use of the Non-Personal Information That We Collect
 ---------------------------------------------------
 
 Non-Personal Information may be used by us for administrative,
@@ -176,7 +176,7 @@ Specifically, we may use your Non-Personal Information to:
 
  
 
-Disclosure of the Personal Information and Non-Personal Information That We Collect {#h.8368j48eymbd .c7}
+Disclosure of the Personal Information and Non-Personal Information That We Collect
 -----------------------------------------------------------------------------------
 
 -   We may transfer your Personal Information and Non-Personal
@@ -231,7 +231,7 @@ Disclosure of the Personal Information and Non-Personal Information That We Coll
 
  
 
-Advertising {#h.kll4ms7ionbi .c7}
+Advertising
 -----------
 
 By using our Website/Apps, you may be offered advertising content. We or
@@ -251,7 +251,7 @@ changing the settings of your device.
 
  
 
-Your Rights {#h.cfx642lgeyhm .c7}
+Your Rights
 -----------
 
 We ask that you keep the Personal Information that you provide to us
@@ -290,7 +290,7 @@ activities that occur under your account.
 
  
 
-Partnerships and External Sources {#h.4if7dgbtgo8i .c7}
+Partnerships and External Sources
 ---------------------------------
 
 Our Websites/Apps may link to external sites beyond our control. This
@@ -316,7 +316,7 @@ governed by the SmartRecruiters privacy policy, which you can view here:
 
  
 
-Children {#h.9o8jlkn81cn5 .c7}
+Children
 --------
 
 Many of our Websites/Apps are intended for general audiences, and we do
@@ -355,7 +355,7 @@ any Personal Information.
 
  
 
-Changes {#h.w8lp9ugy915c .c7}
+Changes
 -------
 
 We reserve the right to change this Privacy Policy at any time. In the
@@ -374,7 +374,7 @@ subject line.
 
  
 
-Websites/Apps Security {#h.wvll7thm0dh .c7}
+Websites/Apps Security
 ----------------------
 
 It is entirely your choice whether or not you provide Personal
@@ -411,7 +411,7 @@ share your login information with anyone.
 
  
 
-Your Privacy Right in California {#h.sdn8735idw3 .c7}
+Your Privacy Right in California
 --------------------------------
 
 Under certain circumstances, California Civil Code Section 1798.83
@@ -436,7 +436,7 @@ negatively affect the functionality of the Websites/Apps.
 
  
 
-Legal Disclaimer {#h.17add3gkm7i3 .c7}
+Legal Disclaimer
 ----------------
 
 Our Websites/Apps operate AS-IS, and we do not represent or warrant that
